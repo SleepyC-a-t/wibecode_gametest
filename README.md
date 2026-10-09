@@ -1,2 +1,0 @@
-# wibecode_gametest
-test
